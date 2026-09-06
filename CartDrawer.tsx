@@ -1,7 +1,7 @@
 import React from 'react';
 import { CartItem } from '../types';
 import { X, ShoppingBag, Trash2, ArrowRight, Heart, Sparkles, Plus, Minus } from 'lucide-react';
-import { getStoredImage } from '../utils/imageStore';
+import { getStoredImage } from './imageStore';
 
 interface CartDrawerProps {
   isOpen: boolean;
