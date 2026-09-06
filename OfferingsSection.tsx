@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Product, ProductCategory } from '../types';
-import { PRODUCTS } from '../data/products';
+import { PRODUCTS } from './products';
 import { Sparkles, Plus, Check, Heart, Gift, Info, ChevronDown, ChevronUp } from 'lucide-react';
 import { EditableImage } from './EditableImage';
 
