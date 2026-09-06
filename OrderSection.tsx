@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { PRODUCTS } from '../data/products';
+import { PRODUCTS } from './products';
 import { Product, OrderData, CartItem } from '../types';
 import {
   Heart,
