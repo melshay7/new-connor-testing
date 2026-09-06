@@ -1,6 +1,6 @@
 import React from 'react';
 import logoImg from '../assets/images/milk_marigold_logo_1788288506125.jpg';
-import { useStoredImage } from '../utils/imageStore';
+import { useStoredImage } from './imageStore';
 
 interface MarigoldLogoProps {
   className?: string;
