@@ -1,0 +1,8 @@
+{
+  "name": "Milk & Marigold",
+  "description": "Handcrafted organic postpartum care packages, wholesome lactation cookies, and restorative herbal bath pouches for healing mamas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
