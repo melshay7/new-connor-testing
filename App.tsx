@@ -4,15 +4,15 @@
  */
 
 import React, { useState } from 'react';
-import { Navbar } from './components/Navbar';
-import { HeroSection } from './components/HeroSection';
-import { AboutSection } from './components/AboutSection';
-import { OfferingsSection } from './components/OfferingsSection';
-import { PostpartumGuideSection } from './components/PostpartumGuideSection';
-import { OrderSection } from './components/OrderSection';
-import { FaqSection } from './components/FaqSection';
-import { CartDrawer } from './components/CartDrawer';
-import { Footer } from './components/Footer';
+import { Navbar } from './Navbar';
+import { HeroSection } from './HeroSection';
+import { AboutSection } from './AboutSection';
+import { OfferingsSection } from './OfferingsSection';
+import { PostpartumGuideSection } from './PostpartumGuideSection';
+import { OrderSection } from './OrderSection';
+import { FaqSection } from './FaqSection';
+import { CartDrawer } from './CartDrawer';
+import { Footer } from './Footer';
 import { Product, CartItem } from './types';
 
 export default function App() {
