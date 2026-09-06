@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Flower2, Cookie, Heart, Sparkles, Droplets, ThermometerSnowflake, Flame, Clock } from 'lucide-react';
-import { bathImg, bathRitualImg, cookiesImg } from '../products';
+import { bathImg, bathRitualImg, cookiesImg } from './products';
 import { EditableImage } from './EditableImage';
 
 export const PostpartumGuideSection: React.FC = () => {
