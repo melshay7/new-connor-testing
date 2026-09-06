@@ -1,6 +1,6 @@
 import React from 'react';
 import { Heart, Sparkles, Flower2, CheckCircle2, Leaf, Shield, Sun } from 'lucide-react';
-import { founderImg } from '../products';
+import { founderImg } from './products';
 import { EditableImage } from './EditableImage';
 
 export const AboutSection: React.FC = () => {
