@@ -1,6 +1,6 @@
 import React from 'react';
 import { Sparkles, ArrowRight, ShieldCheck, Heart, Flower2, Leaf } from 'lucide-react';
-import { heroImg } from '../data/products';
+import { heroImg } from './products';
 import { EditableImage } from './EditableImage';
 
 interface HeroSectionProps {
